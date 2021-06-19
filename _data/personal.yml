@@ -13,8 +13,7 @@ department: NUBI
 institution: Newcastle University
 
 mailing_address: >
-  1600 Amphitheatre Parkway
-  Mountain View, CA 94043
+  Medical School, Framlington Place, Newcastle NE2 4HH
 
 profiles:
   - 
@@ -27,7 +26,7 @@ profiles:
     url: https://www.linkedin.com/pub/ian-li/1/681/8b0
   -
     network: Twitter
-    username: ianli
+    username: TheYueLab
     url: https://twitter.com/TheYueLab
 
 intro:
@@ -35,4 +34,4 @@ intro:
   body: >
     I am currently Professor of Structural Biology at the
     [Biosciences Institute](https://www.ncl.ac.uk/medical-sciences/research/institutes/biosciences/) of Newcastle University. My resesearch team is part of the [Structural Biology Laboratory](https://nsbl.ncl.ac.uk/blog/).
-    Our research focusses on the cross-cutting themes of [Discovery of Medicine] and [Molecular Mechanism of Life].
+    Our research focusses on the cross-cutting themes of [Discovery of Medicine](https://www.ncl.ac.uk/medical-sciences/research/research-themes/therapeutics/) and [Molecular Mechanisms of Life](https://www.ncl.ac.uk/medical-sciences/research/research-themes/biomolecules/).
