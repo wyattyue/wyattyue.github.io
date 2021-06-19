@@ -20,40 +20,40 @@
   year: 2021
   month: March
   pdf: https://www.sciencedirect.com/science/article/pii/S0300908421000092/pdfft?md5=7d898d91aadb4cbe9d7cc496e57c8f51&pid=1-s2.0-S0300908421000092-main.pdf
-  url: https://pubs.acs.org/doi/10.1021/acschembio.0c00498
+  url: 
   
 -
-  type: 
-  title: 
-  authors: 
-  journal: 
-  volume:  
-  pages: 
-  year: 
+  type: journal
+  title: Human aminolevulinate synthase structure reveals a eukaryotic-specific autoinhibitory loop regulating substrate binding and product release
+  authors: Bailey HJ, Bezerra GA, Marcero JR, Padhi S, Foster WR, Rembeza E, Roy A, Bishop DF, Desnick RJ, Bulusu G, Dailey HA Jr, Yue WW
+  journal: Nat Commun
+  volume: 11(1) 
+  pages: 2813
+  year: 2020
   month: 
-  pdf: 
+  pdf: https://www.nature.com/articles/s41467-020-16586-x.pdf
   url: 
 
 -
-  type: 
-  title: 
-  authors: 
-  journal: 
-  volume:  
-  pages: 
-  year: 
+  type: journal
+  title: Structure of the human frataxin-bound iron-sulfur cluster assembly complex provides insight into its activation mechanism
+  authors: Fox NG, Yu X, Feng X, Bailey HJ, Martelli A, Nabhan JF, Strain-Damerell C, Bulawa C, Yue WW, Han S
+  journal: Nat Commun
+  volume: 10(1)
+  pages: 2210
+  year: 2019
   month: 
-  pdf: 
+  pdf: https://www.nature.com/articles/s41467-019-09989-y.pdf
   url: 
 
 -
-  type: 
-  title: 
-  authors: 
-  journal: 
-  volume:  
-  pages: 
-  year: 
+  type: journal
+  title: Palladium-mediated enzyme activation suggests multiphase initiation of glycogenesis
+  authors: Bilyard MK, Bailey HJ, Raich L, Gafitescu MA, Machida T, Iglésias-Fernández J, Lee SS, Spicer CD, Rovira C, Yue WW, Davis BG
+  journal: Nature
+  volume: 563 
+  pages: 235-240
+  year: 2018
   month: 
-  pdf: 
+  pdf: https://www.nature.com/articles/s41586-018-0644-7.pdf
   url: 
