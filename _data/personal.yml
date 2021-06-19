@@ -1,16 +1,16 @@
-name: Ian Li
+name: Wyatt Yue
 
-label: UI Designer
+label: Structural biologist
 
 picture: /img/profile-picture.jpg
 
-email: ianli@ianli.com
+email: wyatt.yue@newcastle.ac.uk
 
 phone: 
 
 department: Android UX
 
-institution: Google
+institution: Newcastle University
 
 mailing_address: >
   1600 Amphitheatre Parkway
@@ -28,7 +28,7 @@ profiles:
   -
     network: Twitter
     username: ianli
-    url: https://twitter.com/ianli/
+    url: https://twitter.com/TheYueLab
 
 intro:
   title: Hello!
