@@ -4,9 +4,21 @@
   authors: Mackinnon SR, Krojer T, Foster WR, Diaz-Saez L, Tang M, Huber KVM, von Delft F, Lai K, Brennan PE, Arruda Bezerra G, Yue WW
   journal: ACS Chem Biol
   volume: 16 
-  issue: 586
+  pages: 586-595
   year: 2021
   month: March
   pdf: https://pubs.acs.org/doi/pdf/10.1021/acschembio.0c00498
+  url: https://pubs.acs.org/doi/10.1021/acschembio.0c00498
+
+-
+  type: journal
+  title: Identification of small molecule allosteric modulators of 5,10-methylenetetrahydrofolate reductase (MTHFR) by targeting its unique regulatory domain
+  authors: Bezerra GA, Holenstein A, Foster WR, Xie B, Hicks KG, Bürer C, Lutz S, Mukherjee A, Sarkar D, Bhattacharya D, Rutter J, Talukdar A, Brown PJ, Luo M, Shi L, Froese DS, Yue WW
+  journal: Biochimie
+  volume: 183 
+  pages: 100-107
+  year: 2021
+  month: March
+  pdf: https://www.sciencedirect.com/science/article/pii/S0300908421000092/pdfft?md5=7d898d91aadb4cbe9d7cc496e57c8f51&pid=1-s2.0-S0300908421000092-main.pdf
   url: https://pubs.acs.org/doi/10.1021/acschembio.0c00498
   
