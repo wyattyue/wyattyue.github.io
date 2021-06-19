@@ -17,9 +17,9 @@ mailing_address: >
 
 profiles:
   - 
-    network:
+    network: Group page
     username:
-    url:
+    url: https://www.staff.ncl.ac.uk/yuelab/
   -
     network: LinkedIn
     username:
