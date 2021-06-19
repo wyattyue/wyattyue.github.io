@@ -1,15 +1,15 @@
 -
   name: ENZYME ASSEMBLIES & COMPLEXES
   description: >
-    Many metabolic enzymes performing essential cellular roles do not exist as individual entities, but instead function as homo-oligomeric assemblies, or in concert with other partner proteins in the cellular compartment. 
+    Many metabolic enzymes performing essential cellular roles function as homo-oligomeric assemblies, or in concert with other partner proteins in the cellular compartment. 
     We have vested interest in studying these macromolecular enzyme complexes that are linked with genetic diseases. 
-    We adopt recombinant co-expression and endogenous isolation strategies for structural, biochemical and biophysical studies aimed at characterizing the functional and disease-causing mechanisms.
+    We adopt novel approaches in recombinant co-expression and endogenous isolation of protein complexes for structural, biochemical and biophysical studies, with a view to characterizing functional and disease-causing mechanisms.
   image: /img/phd-thesis.png
   url:
 -
   name: INTEGRATED STRUCTURAL BIOLOGY
   description: >
-    We combine x-ray crystallography, cryo-electron microscopy and complementary biophysical methods to study enzyme structures, dynamics and interactions. 
+    We combine x-ray crystallography, cryo-electron microscopy and complementary biophysical methods (including differential scanning fluorimetry, surface plasmon resonance, Michaelis-Mention kinetics) to study enzyme structures, dynamics and interactions. 
     We have to date determined > 200 structures.
   image: /img/pi-model.png
   url:
