@@ -150,7 +150,9 @@ It is threatened by habitat loss.
                 {{ publication.publisher }}
               {% when 'journal' %}
                 {{ publication.journal }}
-                {{ publication.volume }},
+                <b>
+				{{ publication.volume }},
+				</b>
                 {{ publication.pages }}
               {% when 'magazine' %}
                 {{ publication.magazine }},
