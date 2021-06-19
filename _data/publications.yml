@@ -1,13 +1,12 @@
 -
   type: journal
-  title: Using context to reveal factors that affect physical activity
-  authors: Ian Li, Anind K. Dey, Jodi Forlizzi
-  journal: ACM Transactions on Computer Human Interaction
-  volume: 19 
-  issue: 1
-  year: 2012
+  title: Fragment Screening Reveals Starting Points for Rational Design of Galactokinase 1 Inhibitors to Treat Classic Galactosemia
+  authors: Mackinnon SR, Krojer T, Foster WR, Diaz-Saez L, Tang M, Huber KVM, von Delft F, Lai K, Brennan PE, Arruda Bezerra G, Yue WW
+  journal: ACS Chem Biol
+  volume: 16 
+  issue: 586
+  year: 2021
   month: March
-  pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
-  url: http://dl.acm.org/citation.cfm?id=2147783.2147790
--
+  pdf: https://pubs.acs.org/doi/pdf/10.1021/acschembio.0c00498
+  url: https://pubs.acs.org/doi/10.1021/acschembio.0c00498
   
