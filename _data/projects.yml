@@ -11,7 +11,7 @@
     We combine x-ray crystallography, cryo-electron microscopy and complementary biophysical methods (including differential scanning fluorimetry, surface plasmon resonance, Michaelis-Mention kinetics) to study enzyme structures, dynamics and interactions. 
     We have to date determined > 200 structures, all deposited in the Protein Data Bank.
     Our goal is to provide insight into functional and disease-causing mechanisms.
-  image: /img/pi-model.png
+  image: /img/diffract.jpg
   url:
 -
   name: DRUG DISCOVERY
@@ -19,5 +19,5 @@
     Disease-associated metabolic enzymes often lead to aberrant flux and accumulation of toxic metabolites. 
     Therefore, pathway manipulation to reduce flux to the defective enzyme could have therapeutic benefit, as shown for lysosomal storage disorders. 
     Our objectives are to develop small molecule inhibitors for enzymes upstream of a metabolic defect, as 'substrate reduction therapy'.
-  image: /img/impact.jpg
+  image: /img/SRT.png
   url:
