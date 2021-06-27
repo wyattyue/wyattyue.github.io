@@ -9,7 +9,7 @@
   name: INTEGRATED STRUCTURAL BIOLOGY
   description: >
     We combine x-ray crystallography, cryo-electron microscopy and complementary biophysical methods (including differential scanning fluorimetry, surface plasmon resonance, Michaelis-Mention kinetics) to study enzyme structures, dynamics and interactions. 
-    We have to date determined > 200 structures, all deposited in the Protein Data Bank.
+    We have to date determined > 200 structures, all deposited in the [Protein Data Bank](https://www.rcsb.org/search?request=%7B%22query%22%3A%7B%22parameters%22%3A%7B%22attribute%22%3A%22audit_author.name%22%2C%22operator%22%3A%22exact_match%22%2C%22value%22%3A%22Yue%2C%20W.W.%22%7D%2C%22type%22%3A%22terminal%22%2C%22service%22%3A%22text%22%2C%22node_id%22%3A0%7D%2C%22return_type%22%3A%22entry%22%2C%22request_options%22%3A%7B%22pager%22%3A%7B%22start%22%3A0%2C%22rows%22%3A25%7D%2C%22scoring_strategy%22%3A%22combined%22%2C%22sort%22%3A%5B%7B%22sort_by%22%3A%22score%22%2C%22direction%22%3A%22desc%22%7D%5D%7D%2C%22request_info%22%3A%7B%22src%22%3A%22ui%22%2C%22query_id%22%3A%22e700aff762bed0fd2ab01c15791d146a%22%7D%7D).
     Our goal is to provide insight into functional and disease-causing mechanisms.
   image: /img/diffract.jpg
   url:
