@@ -17,7 +17,8 @@
   name: DRUG DISCOVERY
   description: >
     Disease-associated metabolic enzymes often lead to aberrant flux and accumulation of toxic metabolites. 
-    Therefore, pathway manipulation to reduce flux to the defective enzyme could have therapeutic benefit, as shown for lysosomal storage disorders. 
+    Therefore, pathway manipulation to reduce flux to the defective enzyme could have therapeutic benefit. 
     Our objectives are to develop small molecule inhibitors for enzymes upstream of a metabolic defect, as 'substrate reduction therapy'.
+    Check out our hit discovery projects of [GALK1](https://zenodo.org/record/4153570#.YNjxHLuSk2w), [HAO1](https://zenodo.org/record/4153603#.YNjxObuSk2w), [ALAS2](https://zenodo.org/record/4153550#.YNjxVbuSk2w) and [AASS](https://zenodo.org/record/4153536#.YNjxeLuSk2w) in the public domain.
   image: /img/SRT.png
   url:
