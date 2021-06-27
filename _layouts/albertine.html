@@ -99,13 +99,15 @@ It is threatened by habitat loss.
         <p>
           {{ site.data.personal.department }}<br>
           {{ site.data.personal.institution }}<br>
-          {{ site.data.personal.mailing_address | replace:'\n','<br>' }}
+          <i>
+		  {{ site.data.personal.mailing_address | replace:'\n','<br>' }}
+		  </i>
         </p>
 
         <p>
           {% for profile in site.data.personal.profiles %}
             
-            {% if profile.network == 'Google Scholar' %}
+            {% if profile.network == 'GroupPage' %}
               <i class="fa fa-google"></i>
             {% elsif profile.network == 'LinkedIn' %}
               <i class="fa fa-linkedin-square"></i>
@@ -261,7 +263,7 @@ It is threatened by habitat loss.
       </div>
       <div class="row">
         <div class="col-xs-12">          
-          Created with Github
+          Hosted with Github
           </a>
         </div>
       </div>
