@@ -1,15 +1,3 @@
-
--
- type: journal
-  title: Snapshots of actin and tubulin folding inside the TRiC chaperonin
-  authors: Kelly JJ, Tranter D, Pardon E, Chi G, Kramer H, Happonen L, Knee KM, Janz JM, Steyaert J, Bulawa C, Paavilainen VO, Huiskonen JT, Yue WW
-  journal: Nat Struct Mol Biol
-  volume: 29 
-  pages: 420-429
-  year: 2022
-  month: May
-  pdf: https://www.nature.com/articles/s41594-022-00755-1
-  url: -
 -    
   type: journal
   title: Fragment Screening Reveals Starting Points for Rational Design of Galactokinase 1 Inhibitors to Treat Classic Galactosemia
