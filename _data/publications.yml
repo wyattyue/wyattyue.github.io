@@ -1,37 +1,37 @@
 -
   type: journal
-  title: 
-  authors: 
-  journal: 
-  volume:  
-  pages: 
-  year: 
+  title: Dynamic inter-domain transformations mediate the allosteric regulation of human 5, 10-methylenetetrahydrofolate reductase
+  authors: Blomgren LKM, Huber M, Mackinnon SR, Bürer C, Baslé A, Yue WW, Froese DS, McCorvie TJ 
+  journal: Nat Commun 
+  volume: 15 
+  pages: 3248
+  year: 2024
   month: 
-  pdf: 
+  pdf: https://doi.org/10.1038/s41467-024-47174-y
   url: 
   
 -
   type: journal
-  title: 
-  authors: 
-  journal: 
-  volume:  
-  pages: 
-  year: 
+  title: Architecture and regulation of filamentous human cystathionine beta-synthase
+  authors: McCorvie TJ, Adamoski D, Machado RAC, Tang J, Bailey HJ, Ferreira DSM, Strain-Damerell C, Baslé A, Ambrosio ALB, Dias SMG, Yue WW 
+  journal: Nat Commun
+  volume: 15 
+  pages: 2931
+  year: 2024
   month: 
-  pdf: 
+  pdf: https://doi.org/10.1038/s41467-024-46864-x
   url: 
   
 -
   type: journal
-  title: 
-  authors: 
-  journal: 
-  volume:  
-  pages: 
-  year: 
+  title: Molecular basis for the regulation of human glycogen synthase by phosphorylation and glucose-6-phosphate
+  authors: McCorvie TJ, Loria PM, Tu M, Han S, Shrestha L, Froese DS, Ferreira IM, Berg AP, Yue WW
+  journal: Nat Struct Mol Biol 
+  volume: 29  
+  pages: 628-638
+  year: 2022
   month: 
-  pdf: 
+  pdf: https://doi.org/10.1038/s41594-022-00799-3
   url: 
   
 -    
@@ -44,7 +44,7 @@
   year: 2021
   month: March
   pdf: https://pubs.acs.org/doi/pdf/10.1021/acschembio.0c00498
-  url: https://pubs.acs.org/doi/10.1021/acschembio.0c00498
+  url:
   
 -
   type: journal
